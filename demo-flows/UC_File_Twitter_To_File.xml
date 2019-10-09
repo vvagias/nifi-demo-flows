@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template encoding-version="1.2">
+    <description>Read twitter data in JSON and write to disk
+</description>
+    <groupId>b15ec7ee-016d-1000-e509-f0b7e82ac928</groupId>
+    <name>UC_File_Twitter_To_File</name>
+    <snippet>
+        <labels>
+            <id>d3550710-e9f9-3d39-0000-000000000000</id>
+            <parentGroupId>5d11b495-35cb-30f2-0000-000000000000</parentGroupId>
+            <position>
+                <x>0.0</x>
+                <y>0.0</y>
+            </position>
+            <height>221.0</height>
+            <label>Consume JSON event data from Twitter and write directly to local file system. 
+</label>
+            <style>
+                <entry>
+                    <key>background-color</key>
+                    <value>#f07b0e</value>
+                </entry>
+                <entry>
+                    <key>font-size</key>
+                    <value>18px</value>
+                </entry>
+            </style>
+            <width>1040.0</width>
+        </labels>
+    </snippet>
+    <timestamp>10/09/2019 11:38:44 CDT</timestamp>
+</template>
